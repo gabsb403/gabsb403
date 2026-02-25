@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao perfil da gabsb403 😁
+# Oii! Eu sou a Gabs 
 
  <div>
    <a href="https://github.com/gabsb403">
@@ -15,7 +15,8 @@
  
 <br>
  
-### 💼 Minhas redes profissionais
+### 💼 Minhas redes
+
  
 <div> 
  
