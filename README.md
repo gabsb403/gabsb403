@@ -1,6 +1,8 @@
 # 👩‍💻 Gabriela Silva | Desenvolvedora Front-End
 
-Desenvolvedora Front-End focada em criar interfaces modernas, responsivas e interativas utilizando HTML, CSS e JavaScript.
+Desenvolvedora Front-End focada em criar interfaces modernas, responsivas e interativas.
+
+🔗 Acesse meu portfólio: https://portfolio-gabriela-six.vercel.app
 
 💻 Tecnologias: HTML • CSS • JavaScript
 
