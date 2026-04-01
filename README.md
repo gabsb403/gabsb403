@@ -1,4 +1,8 @@
-# Oii! Eu sou a Gabs!
+# 👩‍💻 Gabriela Silva | Desenvolvedora Front-End
+
+Desenvolvedora Front-End focada em criar interfaces modernas, responsivas e interativas utilizando HTML, CSS e JavaScript.
+
+💻 Tecnologias: HTML • CSS • JavaScript
 
  <div>
    <a href="https://github.com/gabsb403">
