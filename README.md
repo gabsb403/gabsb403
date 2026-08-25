@@ -28,8 +28,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 </div>
 <br>
  
-## Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+
 ### 💼 Minhas redes
 
  
