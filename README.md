@@ -2,8 +2,11 @@
 
 --
 ##Sobre mim
+
 -👩‍🎓Atualmente cursando **Técnico em Desenvolvimento de sistemas**
+
 -📚Sempre aprendendo novas tecnologias e boas práticas de programação 
+
 -🌐Interesse especial em **projetos web** e **desenvolvimento front-end**
 
 ---
