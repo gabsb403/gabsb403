@@ -1,13 +1,13 @@
 # 👩‍💻 Gabriela Silva | Desenvolvedora Front-End
 
 
-##Sobre mim
+## Sobre mim
 
--👩‍🎓Atualmente cursando **Técnico em Desenvolvimento de sistemas**
+- 🎓Atualmente cursando **Técnico em Desenvolvimento de sistemas**
 
--📚Sempre aprendendo novas tecnologias e boas práticas de programação 
+- 💻Sempre aprendendo novas tecnologias e boas práticas de programação 
 
--🌐Interesse especial em **projetos web** e **desenvolvimento front-end**
+- 🌐Interesse especial em **projetos web** e **desenvolvimento front-end**
 
 ---
 
@@ -43,4 +43,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 </div>
 
 ---
-✨*Sempre em constante evolução como desenvolvedora*
+✨*Sempre em constante evolução como desenvolvedora*🚀
