@@ -13,7 +13,7 @@
 
 🔗 Acesse meu portfólio: https://portfolio-gabriela-six.vercel.app
 
-💻 Tecnologias: HTML • CSS • JavaScript •PYTHON
+💻 Tecnologias: HTML • CSS • JavaScript • PYTHON
 
  <div>
    <a href="https://github.com/gabsb403">
